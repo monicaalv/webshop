@@ -1,0 +1,10 @@
+/* .editor-post-title__block .editor-post-title__input {
+  font-family: "Roboto";
+  color: red;
+} */
+
+@font-face {
+  font-family: "Roboto", sans-serif;
+  src: url("http://monicaamundsen.com/kea/14_e-handel/webshop/wp-content/themes/hamilton-child/fonts/Roboto-Thin.ttf");
+  font-display: swap;
+}
